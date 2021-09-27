@@ -1,8 +1,7 @@
 - 👋 Hi There, I’m @AshishMulupuri
-- 👀 I’m interested i
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m actively seeking Data Analyst/ Data Scientist jobs
+- 🌱 I’m currently Pursuing Business Analytics at UConn.
+- 📫 How to reach me Twitter - @ASHISHK62004346
 
 <!---
 AshishMulupuri/AshishMulupuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
