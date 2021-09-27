@@ -1,6 +1,4 @@
-- 👋 Hi There, I’m @AshishMulupuri
-- 👀 I’m actively seeking Data Analyst/ Data Scientist jobs
-- 🌱 I’m currently Pursuing Business Analytics at UConn.
+- 👋 Hi There, I’m Ashish Mulupuri
 - 📫 How to reach me Twitter - @ASHISHK62004346
 
 <!---
